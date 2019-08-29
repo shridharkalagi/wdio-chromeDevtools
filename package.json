@@ -32,7 +32,7 @@
     "@wdio/sync": "^5.10.8",
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
-    "chromedriver": "^75.0.0",
+    "chromedriver": "^76.0.0",
     "wdio-chromedriver-service": "^5.0.2"
   },
   "babel": {

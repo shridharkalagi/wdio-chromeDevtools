@@ -26,7 +26,7 @@ suite('Mock tests using chrome devtools protocol', function () {
             });
 
             const bodyData = response.base64Encoded ? atob(response.body) : response.body;
-            console.log(bodyData); //
+            // console.log(bodyData); //
 
             const newHeaders = [
                 'Connection: closed',
